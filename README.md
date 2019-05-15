@@ -2,9 +2,9 @@
 This repository is created specifically to store my solutions for [CodingBat](https://codingbat.com/python) challengs.
 # Python
 * **List-1**
-| **_Challenge_** |**_Solution_**  |
-| ------------- | ------------- |
-| [common end](https://codingbat.com/prob/p147755) | [common_end.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/common_end.py) |
+| **Challenge**    |**Solution** |
+| ------------- | ------------|
+|[common end](https://codingbat.com/prob/p147755) | [common_end.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/common_end.py) |
 |[first_last6](https://codingbat.com/prob/p181624)  |[first_last6.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/first_last6.py) |
 |[has23](https://codingbat.com/prob/p177892) |[has23.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/has23.py)  |
 |[make_ends](https://codingbat.com/prob/p124806)  | [make_ends.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/make_ends.py) |
