@@ -16,6 +16,12 @@ This repository is created specifically to store my solutions for [CodingBat](ht
 | [same_first_last](https://codingbat.com/prob/p179078) | [same_first_last.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/same_first_last.py) |
 |[sum2](https://codingbat.com/prob/p192589)  |[sum2.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/sum2.py)  |
 |[sum3](https://codingbat.com/prob/p191645)  |[sum3.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/sum3.py)  |
+| [big_diff](https://codingbat.com/prob/p184853)| [big_diff.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/big_diff.py)|
+|[count_evens](https://codingbat.com/prob/p189616)|[count_evens.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/count_evens.py)|
+|[has22](https://codingbat.com/prob/p119308)|[has22.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/has22.py)|
+|[sum13](https://codingbat.com/prob/p167025)|[sum13ig_diff.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/sum13ig_diff.py)|
+|[sum67](https://codingbat.com/prob/p108886)|[sum67.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/sum67.py)|
+|[centered_average](https://codingbat.com/prob/p126968)|[centered_average.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/centered_average.py)|
 
 
 
