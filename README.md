@@ -17,7 +17,7 @@ This repository is created specifically to store my solutions for [CodingBat](ht
 |[sum2](https://codingbat.com/prob/p192589)  |[sum2.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/sum2.py)  |
 |[sum3](https://codingbat.com/prob/p191645)  |[sum3.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-1/sum3.py)  |
 
-# _List-1_
+# _List-2_
 | **Challenge**    |**Solution** |
 | ------------- | ------------|
 | [big_diff](https://codingbat.com/prob/p184853)| [big_diff.py](https://github.com/Luel-Hagos/CodeBat_Answers/blob/master/List-2/big_diff.py)|
